@@ -1,17 +1,17 @@
 <h1 align="center">Olá 👋, meu nome é Matheus</h1>
 <h3 align="center">Sou apaixonado por desenvolver softwares, e aprender novas tecnologias. Sou um desenvolvedor front-end porém estou estudando back-end também</h3>
 
-- 🔭 Recentemente tenho trabalhado num clone da netflix [Matflix](www.github.com/Matp1/Matflix)
+- 🔭 Recentemente tenho trabalhado num clone da netflix: [Matflix](www.github.com/Matp1/Matflix)
 
-- 🌱 Estou estudando **mySQL, Node, mongoDB, typescript e vue**
+- 🌱 Estou estudando: **mySQL, Node, mongoDB, typescript e vue**
 
-- 👨‍💻 Todos os meus projetos estão em [www.github.com/Matp1](www.github.com/Matp1)
+- 👨‍💻 Todos os meus projetos estão em: [www.github.com/Matp1](www.github.com/Matp1)
 
-- 💬 Sei codar com **React, JS, RTL, testes unitários, Redux, CSS**
+- 💬 Sei codar com: **React, JS, RTL, testes unitários, Redux, CSS**
 
-- 📫 Como me contatar **matheus.paivaads@gmail.com**
+- 📫 Como me contatar: **matheus.paivaads@gmail.com**
 
-- ⚡ Fato engraçado sobre mim **Descobri minha paixão pelo mundo da tecnologia quando vi o primeiro filme do Homem De Ferro com 8 anos, ali me vi querendo ser o proprio Tony Stark**
+- ⚡ Fato engraçado sobre mim: **Descobri minha paixão pelo mundo da tecnologia quando vi o primeiro filme do Homem De Ferro com 8 anos, ali me vi querendo ser o proprio Tony Stark**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
